@@ -43,7 +43,7 @@ body {
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #023833;
   position: relative;
 }
 
@@ -63,7 +63,7 @@ body {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: black;
+  background: #023833;
   display: block;
   position: absolute;
   right: 0;
@@ -78,6 +78,6 @@ body {
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #4CAF50;
+  background-color:#023833;
   color: white;
 }

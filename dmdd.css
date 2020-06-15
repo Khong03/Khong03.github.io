@@ -52,6 +52,12 @@ body {
     font-family: 'Vidaloka', serif;
 }
 
+    .responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+    
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;
@@ -94,8 +100,3 @@ body {
   color: white;
 }
     
-.responsive {
-  width: 100%;
-  max-width: 400px;
-  height: auto;
-}
